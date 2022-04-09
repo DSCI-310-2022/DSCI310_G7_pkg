@@ -1,7 +1,7 @@
 import pytest
 import matplotlib
 import numpy as np
-from DSCI310_G7_pkg.line_plot import *
+from src.DSCI310_G7_pkg.line_plot import *
 
 Ks = 10
 mean = np.zeros((Ks-1))
